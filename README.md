@@ -1,2 +1,1 @@
-CODE_SNIPPETS
-=============
+Mikros Code Snippets
